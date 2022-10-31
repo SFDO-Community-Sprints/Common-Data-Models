@@ -4,23 +4,31 @@
 Project focusing on how the community can use the power of the Salesforce platform to provide consistency for data models that are commonly implemented in the Nonprofit and Education spaces to avoid duplicate work and promote collaboration and best practices.
 
 ## Vision & Goals
-Please replace with your projects vision.
-* Goal 1
-* Goal 2
+We are aiming to create 
+* An example CDM for a particular topic/program area 
+* Guidance on how others can create CDMs.
+
 
 ## Project Vertical
-Please replace with Nonprofit, Education, or Other (if Other, explain further)
+* Nonprofit
 
 ## Trailblazer Group or Slack Channel Link (access required)
-Please replace with the URL for your Trailblazer Community group and/or Slack channel issued by the Commons program team.
+https://salesforce-external.slack.com/archives/C046MNL1KM5/p1666119279308909
 
 ## How to Contribute:
-- Way 1.
-- Way 2. 
-- Way 3. 
+Share your knowledge and skills with any of the following: 
+* Proficiency building data schemas in Salesforce
+* Knowledge of NPSP and PMM data structures
+* Ability to prioritize nonprofit data needs
+* Familiarity with CDMs
+ 
 
 # Project Resources and Documentation
+* Google.doc capturing notes 
+https://docs.google.com/document/d/1Ma8Q-l-UH9ZLER32anfq5lc9_JrXt1b9iy6yWgcpOmc/edit?usp=sharing
+
 Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
+
 
 
 ***
@@ -29,12 +37,13 @@ BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR 
 2. Update that wiki page with details from the Sprint. 
 3. Copy that format for the next Sprint.
 
-## Sprint (DATE): 
+## Sprint (DATE): Nov 2nd and 3rd - 2022
+
 # Project Team & Accomplishments
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
+Enter persons name   | Group Leader  | [GittySmo](https://github.com/GittySmo)    | Common Data Models
 Enter persons name   | Contributor   |                                                    | Enter working group name
 
 # Future Contributions (AKA what were you unable to finish at the Sprint)
