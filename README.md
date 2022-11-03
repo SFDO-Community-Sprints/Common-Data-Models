@@ -5,7 +5,7 @@ Project focusing on how the community can use the power of the Salesforce platfo
 
 ## Vision & Goals
 We are aiming to create 
-* An example CDM for a particular topic/program area 
+* An example CDM (Common Data Model) for a particular topic/program area 
 * Guidance on how others can create CDMs.
 
 
