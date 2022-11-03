@@ -27,7 +27,7 @@ Share your knowledge and skills with any of the following:
 * Google.doc capturing notes 
 https://docs.google.com/document/d/1Ma8Q-l-UH9ZLER32anfq5lc9_JrXt1b9iy6yWgcpOmc/edit?usp=sharing
 
-Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
+Documentation can be found in the repository [[wiki] (https://github.com/SFDO-Community-Sprints/Common-Data-Models/wiki/2022-Nov-Sprint)]
 
 
 
