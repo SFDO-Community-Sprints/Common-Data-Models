@@ -31,20 +31,7 @@ Documentation can be found in the repository [wiki] (URL for wiki where docs are
 
 
 
-***
-BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR SPRINT PARTICIPATION. 
-1. Cut the below from the readme and paste into a new Wiki page. Delete these instructions.
-2. Update that wiki page with details from the Sprint. 
-3. Copy that format for the next Sprint.
 
-## Sprint (DATE): Nov 2nd and 3rd - 2022
-
-# Project Team & Accomplishments
-
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [GittySmo](https://github.com/GittySmo)    | Common Data Models
-Enter persons name   | Contributor   |                                                    | Enter working group name
 
 # Future Contributions (AKA what were you unable to finish at the Sprint)
 Replace with the goals your team would like to continue working on next time.
